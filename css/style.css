@@ -1,0 +1,219 @@
+body{
+    font-family: Poppins;
+}
+
+
+header{
+    background-color: #F0FFF0;
+    padding-top: 25px;
+    padding-bottom: 73px;
+}
+
+nav ul li a{
+    color:black;
+}
+
+.bg-color{
+    background: #21B573;
+border-radius: 33px;
+padding: 10px 25px;
+height: 43px;
+color: white;
+}
+.hero-content{
+    margin-top: 76px;
+}
+.hero-content h1{
+    font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+}
+.txt-color{
+font-size: 16px;
+line-height: 24px;
+color: #FD511A;
+}
+
+.text-highlighter{
+    color: #21B573;
+}
+
+.hero-btn{
+width: 153px;
+height: 43px;
+font-family: Roboto !important;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+background: #21B573;
+border-radius: 33px;
+border: none;
+color: white;
+}
+
+
+
+.book-contents {
+    text-align: center;
+    background-color: #F8FFFB;;
+    width: 250px;
+    height: 270px;
+    border-radius: 10px;
+    transition: .2s ease;;
+
+}
+.book-contents:hover{
+
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+    background-color: #ffffff;;
+}
+
+.book{
+    padding-top: 42px;
+}
+
+.book-contents{
+    padding-top: 54px;
+
+}
+.book-contents h3{
+    margin-top:22px ;
+}
+
+
+
+.book-img {
+    width: 66px;
+    height: 85px;
+}
+.book-contents h3{
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #413960;
+}
+.book-contentsp{
+font-size: 16px;
+line-height: 24px;
+color: #585859;
+
+}
+
+.footer-icons {
+    width: 24px;
+    height: 24px;
+
+}
+.corses{
+    padding-top:105px;
+
+}
+.course-title h1{
+    margin-bottom: 55px;
+    font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+color: #413960;
+}
+.card-title{
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+color: #413960;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 15px;
+}
+
+.card-text{
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: #585859;
+}
+.purchase-btn{
+color:white;
+width: 137px;
+height: 35px;
+border:none;
+background: #21B573;
+border-radius: 33px;
+}
+.card-footer{
+    border-top: none;
+    background-color: none;
+}
+.card-footer p{
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+color: #585859;
+}
+
+
+.testimonial {
+    padding-bottom: 121px;
+    padding-top: 88px;
+}
+
+.testimonial h1 {
+text-align: center;
+font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+}
+
+.testimonial-content {
+    margin-top: 50px;
+}
+.user-image{
+    width: 120px;
+height: 120px;
+}
+.user-feedback p {
+    font-size: 16px;
+    line-height: 30px;
+    margin-left: 36px;
+    margin-top: 13px;
+}
+
+
+footer {
+    background-color: #282531;
+    padding-top: 48px;
+}
+
+
+.footer-content h5{
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 30px;
+color: white;
+}
+
+.footer-content p{
+color: white;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+}
+.copy-right{
+    padding-top: 76px;
+    padding-bottom: 27px;
+}
+.copy-right p{
+font-size: 16px;
+line-height: 30px;
+color: #CDCDCD;
+}
